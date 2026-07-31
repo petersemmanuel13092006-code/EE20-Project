@@ -7,7 +7,7 @@ import tensorflow as tf
 imgsize = 224
 classnames = ["Ripe", "Unripe"]
 
-st.set_page_config(page_title="Banana Ripeness Detection", page_icon="🍌")
+st.set_page_config(page_title="Banana Ripeness Detection")
 
 st.title("Banana Ripeness Detection")
 st.write("Upload a photo of a banana to check if it's ripe or unripe.")
