@@ -85,17 +85,22 @@ banana photo, and view the result.
     <tr>
       <td>Akpadiaha, Favour Sampson</td>
       <td>23/EG/EE/009</td>
-      <td>?</td>
+      <td>favian667</td>
     </tr>
     <tr>
       <td>Udontah, Victor Ekerette</td>
       <td>23/EG/EE/019</td>
-      <td>?</td>
+      <td>dannyjnr12</td>
+    </tr>
+     <tr>
+      <td>Samuel, Wisdom Uforo</td>
+      <td>23/EG/EE/029</td>
+      <td>wisdom77434</td>
     </tr>
     <tr>
       <td>Jack, Goodgift Emmanuel</td>
       <td>23/EG/EE/069</td>
-      <td>?</td>
+      <td>Etilord001</td>
     </tr>
     <tr>
       <td>Peters, Emmanuel Sylvanus</td>
@@ -105,18 +110,14 @@ banana photo, and view the result.
     <tr>
       <td>Edward, Cletus Nse</td>
       <td>23/EG/EE/089</td>
-      <td>?</td>
+      <td>Edwardcletus-bot</td>
     </tr>
     <tr>
       <td>Adu, Peter Oluwalayomi</td>
       <td>24/EG/EE/369</td>
-      <td>?</td>
+      <td>kilo2026</td>
     </tr>
-    <tr>
-      <td>?</td>
-      <td>?</td>
-      <td>?</td>
-    </tr>
+   
   </tbody>
 </table>
 
